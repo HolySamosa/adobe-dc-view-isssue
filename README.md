@@ -7,8 +7,7 @@ a long time. This issue was recently discovered, but it's possible that it may h
 The first view of a page with an embedded PDF functions as expected.  However, for subsequent views of any page
 with an embedded PDF the PDF does not render.  The embedded PDF will render properly if the page is reloaded.
 
-This is the same or similar behavior as discussed in this unresolved thread on the Adobe forum:
-https://community.adobe.com/t5/acrobat-services-api-discussions/problem-pdf-embed-api-dc-core-loaded-twice/td-p/13938274
+This is the same or similar behavior as [discussed in this unresolved thread on the Adobe forum](https://community.adobe.com/t5/acrobat-services-api-discussions/problem-pdf-embed-api-dc-core-loaded-twice/td-p/13938274).
 
 ## Running the demo project locally
 - Requirements:
